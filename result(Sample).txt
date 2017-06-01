@@ -1,0 +1,8 @@
+method choosen: ast
+board entered: 5,1,0,7,8,4,2,3,6
+goal board is: 0, 1, 2, 3, 4, 5, 6, 7, 8
+number of visited nodes: 2311
+maximum size of queue: 1293
+maximum depth of search: 24
+depth of solution: 24
+actions to reach goal(1up,2down,3left,4right): 2, 3, 1, 3, 2, 2, 4, 4, 1, 1, 3, 2, 3, 1, 4, 2, 3, 2, 4, 1, 4, 1, 3, 3
